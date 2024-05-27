@@ -1,3 +1,4 @@
+# 🚧 This repo has been moved to [prescientmoon/purescript-run-supply](https://github.com/prescientmoon/purescript-run-supply) 🚧
 # Supply
 
 An effect useful for generating an infinite supply of values.
